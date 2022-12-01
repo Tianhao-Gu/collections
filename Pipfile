@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 fastapi = "==0.85.0"
-uvicorn = {extras = ["standard"], version = "==0.18.3"}
+uvicorn = {extras = ["standard"], version = "==0.20.0"}
 
 [dev-packages]
 requests = "==2.28.1"
